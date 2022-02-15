@@ -1,8 +1,8 @@
 const LinksSocialMedia = {
     github: 'denilsonbaptista',
-    youtube: 'UC1f6T5Zkd3fmAYpf9lb0a7A',
+    youtube: 'channel/UC1f6T5Zkd3fmAYpf9lb0a7A',
     instagram: 'denilsonbaptistabp',
-    twitter: 'denilsonbaptistaSB'
+    twitter: 'denilsonSBp'
 }
 
 function changeSocialMediaLinks() {
